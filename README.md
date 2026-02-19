@@ -20,9 +20,9 @@ This project is a demonstration of **modern Android development** using declarat
 
 ## 📸 Screenshots
 
-| Light Mode                   | Dark Mode |
-|------------------------------| --- |
-| ![Light Mode](Images/ss.png) |  |
+| Light Mode          | Dark Mode             |
+|---------------------|-----------------------|
+| ![](Images/light_mode.png) | ![](Images/dark_mode) |
 
 ---
 
