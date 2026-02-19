@@ -22,7 +22,7 @@ This project is a demonstration of **modern Android development** using declarat
 
 | Light Mode                   | Dark Mode |
 |------------------------------| --- |
-| ![Light Mode](Images/ss.png) |  |
+| ![](Images/ss.png) |  |
 
 ---
 
